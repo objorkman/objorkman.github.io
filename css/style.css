@@ -1,0 +1,32 @@
+body,
+footer {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #F5F5F5;
+  min-width: 300px;
+}
+
+#main {
+  width: 940px;
+  color: #1e272e;
+}
+
+a,
+a:focus {
+  color: #3867d6;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #778ca3;
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 50px;
+  letter-spacing: 2px;
+}
